@@ -1,0 +1,5 @@
+{
+  "name": "RestoOps Checklist",
+  "description": "Comprehensive daily operational checklist and reporting system for restaurant management, featuring shift logs, QC forms, cleaning reports, and PDF export.",
+  "requestFramePermissions": []
+}
